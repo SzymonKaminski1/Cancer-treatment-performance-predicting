@@ -3,4 +3,5 @@ This project is about choosing best model for predicting cancer medicine perfoma
 Train and test data is stored in: https://drive.google.com/drive/folders/1ADea54376PHXMwRHeteK6h4kqqPxS5af?usp=sharing \
 There were three models I had to check: Lasso, ridge regression and random forest. For checking Lasso and ridge regression I used Elastic Net method, and for random forest I used 500 variables with highest coefficient of variation.\
 I used pandas and sklearn libraries.\
+*project.ipynb
 This project was scored at my university course. I got max points for my prediction, overall project mark was 88%. 
